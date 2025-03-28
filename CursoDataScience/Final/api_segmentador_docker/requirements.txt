@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+Modelo_Segmentos @ file:///app/Modelo_Segmentos.zip
