@@ -1,0 +1,8 @@
+pe\alan\ui\pages\RegisterPage.class
+pe\alan\ui\utils\UserFactory.class
+pe\alan\ui\config\TestConfig.class
+pe\alan\ui\core\BaseTest.class
+pe\alan\ui\tests\RegisterAndLoginTest.class
+pe\alan\ui\pages\LoginPage.class
+pe\alan\ui\pages\HomePage.class
+pe\alan\ui\models\TestUser.class

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-06T04:01:09 PET" name="UI Suite" finished-at="2026-01-06T04:01:15 PET" duration-ms="6052">
+    <groups>
+    </groups>
+    <test started-at="2026-01-06T04:01:09 PET" name="UI Tests" finished-at="2026-01-06T04:01:15 PET" duration-ms="6052">
+      <class name="pe.alan.ui.tests.RegisterAndLoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pe.alan.ui.tests.RegisterAndLoginTest@7fa98a66]" started-at="2026-01-06T04:01:09 PET" name="setUp" finished-at="2026-01-06T04:01:10 PET" duration-ms="1719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldRegisterThenLoginWithGeneratedUser()[pri:0, instance:pe.alan.ui.tests.RegisterAndLoginTest@7fa98a66]" started-at="2026-01-06T04:01:10 PET" name="shouldRegisterThenLoginWithGeneratedUser" finished-at="2026-01-06T04:01:15 PET" duration-ms="4183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldRegisterThenLoginWithGeneratedUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pe.alan.ui.tests.RegisterAndLoginTest@7fa98a66]" started-at="2026-01-06T04:01:15 PET" name="tearDown" finished-at="2026-01-06T04:01:15 PET" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pe.alan.ui.tests.RegisterAndLoginTest -->
+    </test> <!-- UI Tests -->
+  </suite> <!-- UI Suite -->
+</testng-results>
