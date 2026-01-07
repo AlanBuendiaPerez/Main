@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-07T11:31:52 PET" name="ui-tests" finished-at="2026-01-07T11:31:59 PET" duration-ms="6869">
+    <groups>
+    </groups>
+    <test started-at="2026-01-07T11:31:52 PET" name="Parabank UI - Register + Login" finished-at="2026-01-07T11:31:59 PET" duration-ms="6869">
+      <class name="pe.alan.ui.tests.ParabankRegisterThenLoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pe.alan.ui.tests.ParabankRegisterThenLoginTest@1ea9f6af]" started-at="2026-01-07T11:31:52 PET" name="setUp" finished-at="2026-01-07T11:31:54 PET" duration-ms="1589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldRegisterAndLoginWithGeneratedUser()[pri:0, instance:pe.alan.ui.tests.ParabankRegisterThenLoginTest@1ea9f6af]" started-at="2026-01-07T11:31:54 PET" name="shouldRegisterAndLoginWithGeneratedUser" finished-at="2026-01-07T11:31:59 PET" duration-ms="5122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldRegisterAndLoginWithGeneratedUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pe.alan.ui.tests.ParabankRegisterThenLoginTest@1ea9f6af]" started-at="2026-01-07T11:31:59 PET" name="tearDown" finished-at="2026-01-07T11:31:59 PET" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pe.alan.ui.tests.ParabankRegisterThenLoginTest -->
+    </test> <!-- Parabank UI - Register + Login -->
+  </suite> <!-- ui-tests -->
+</testng-results>

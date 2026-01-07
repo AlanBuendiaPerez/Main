@@ -1,0 +1,9 @@
+pe\alan\ui\pages\AccountsOverviewPage.class
+pe\alan\ui\pages\RegisterPage.class
+pe\alan\ui\utils\UserFactory.class
+pe\alan\ui\config\TestConfig.class
+pe\alan\ui\tests\ParabankRegisterThenLoginTest.class
+pe\alan\ui\utils\TestData.class
+pe\alan\ui\pages\HomePage.class
+pe\alan\ui\models\TestUser.class
+pe\alan\ui\tests\BaseTest.class

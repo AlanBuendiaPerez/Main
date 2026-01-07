@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ui-tests" verbose="1">
+    <test name="Parabank UI - Register + Login">
+        <classes>
+            <class name="pe.alan.ui.tests.ParabankRegisterThenLoginTest"/>
+        </classes>
+    </test>
+</suite>
